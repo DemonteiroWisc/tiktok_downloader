@@ -6,3 +6,36 @@ body{
     padding: 1em;
     background-color: #F5F5F5;
 }
+
+/* Global */
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+/* Header */
+header{
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: black 4px solid;
+    text-align: center;
+}
+
+form input{
+    width: 80%;
+    font-size: 1em;
+    vertical-align: middle;
+}
+
+.button_1{
+    width: 85px;
+    height: 35px;
+    background-color: #68BB59;
+    color: white;
+    text-align: center;
+    padding: 6px;
+    margin-top: 15px;
+}
